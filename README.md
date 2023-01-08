@@ -1,9 +1,7 @@
-### Olá! Eu sou a Danielly! 🤟🏼
+### olá! eu sou a danielly! 👋🏼
 
-- 👩🏽‍💻 Eu sou uma aspirante a Cientista de Dados;
-- 🧠 Atualmente estou aprendendo Python;
-- 💐 Pronomes: ela/dela;
-- 🤓 Perfil em construção.
+- 👩🏻‍💻 ciência de dados | desenvolvimento back-end;
+- ⚛️ acadêmica de ciência da computação - ifce (2/8);
 
 <div align="center">
   <a href="https://github.com/daniellycodes">
