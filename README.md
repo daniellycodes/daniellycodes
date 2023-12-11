@@ -1,5 +1,5 @@
 ## hey! ;)
-- 🥰 my name is Danielly and I'm currently B.Sc. Student of Computer Science at the Federal Institute of Education, Science and Technology of Ceará;
+- 💌 my name is Danielly and I'm currently B.Sc. Student of Computer Science at the Federal Institute of Education, Science and Technology of Ceará;
 - 📊 passionate about data science and data analysis;
 - 💻 data, math, sql and python programming enthusiast.
   
